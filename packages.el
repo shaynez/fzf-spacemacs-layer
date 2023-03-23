@@ -24,7 +24,7 @@
 (defconst fzf-packages
   ;; '((fzf :location (recipe :fetcher github :repo "seenaburns/fzf.el"))))  ;; Upstream
 
-  '((fzf :location (recipe :fetcher github :repo "AshyIsMe/fzf.el"))))  ;; temporary
+  '((fzf :location (recipe :fetcher github :repo "bling/fzf.el"))))  ;; temporary
   ;; '((fzf :location local)))
 
 (defun fzf/init-fzf ()
